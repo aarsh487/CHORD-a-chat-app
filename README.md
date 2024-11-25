@@ -1,6 +1,7 @@
 # Realtime Chat App
 
 A feature-rich chat application built using the MERN stack and `socket.io` for realtime communication.
+Check Out [Chord Demo](https://chord-a-chat-app.onrender.com)
 
 ## Features
 
